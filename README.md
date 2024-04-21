@@ -1,4 +1,4 @@
-# Corvid by Wix Example: Site Monitoring Sink for Google Stackdriver on GAE
+# Corvid by Wix Example: Site Monitoring Sink for Google Stackdriver on GAE 
 
 This project is a Node.js based example of an adapter for Google Stackdriver that lets you integrate Site monitoring with your Corvid enabled Wix site.
 
